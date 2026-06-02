@@ -1,19 +1,18 @@
 # Titanic_dataset-filter
-    # Titanic Dataset Exploration
 
-    This repository contains a basic exploratory data analysis of the Kaggle Titanic Dataset.
+This repository contains a basic exploratory data analysis of the Kaggle Titanic Dataset.
 
-    ## Dataset
-    - **Name:** Titanic Dataset
-    - **Source:** Kaggle
-    - **Objective:** Understand the structure of the data, identify columns and data types, check dataset size, and inspect missing values.
+## Dataset
+- **Name:** Titanic Dataset
+- **Source:** Kaggle
+- **Objective:** Understand the structure of the data, identify columns and data types, check dataset size, and inspect missing values.
 
-    ## Dataset Overview
-    - **Rows:** 891
-    - **Columns:** 12
+## Dataset Overview
+- **Rows:** 891
+- **Columns:** 12
 
-    ## Columns
-    - PassengerId
+## Columns
+- PassengerId
 - Survived
 - Pclass
 - Name
